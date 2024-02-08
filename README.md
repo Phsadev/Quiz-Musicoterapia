@@ -1,4 +1,4 @@
-# nlw-experts
+# Idéia de quiz desenvolvido na imersão nlw-experpts Rocketsat
 
 ## Tecnologias Utilizadas
 
